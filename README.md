@@ -234,8 +234,3 @@ src/main.py
 * **NumPy**
 * **Matplotlib**
 * **Joblib**
-
-## Disclaimer
-
-This project is intended for **educational and demonstration purposes**. The reported results are specific to this dataset and evaluation setup and should not be interpreted as evidence of production-level credit decisioning performance.
-
