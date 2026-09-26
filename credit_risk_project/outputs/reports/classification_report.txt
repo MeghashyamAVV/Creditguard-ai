@@ -1,0 +1,19 @@
+=== Threshold = 0.5 ===
+              precision    recall  f1-score   support
+
+           0       0.95      0.96      0.95      4943
+           1       0.83      0.80      0.82      1362
+
+    accuracy                           0.92      6305
+   macro avg       0.89      0.88      0.88      6305
+weighted avg       0.92      0.92      0.92      6305
+
+=== Threshold = 0.696 (F1-optimal) ===
+              precision    recall  f1-score   support
+
+           0       0.94      0.99      0.96      4943
+           1       0.96      0.75      0.84      1362
+
+    accuracy                           0.94      6305
+   macro avg       0.95      0.87      0.90      6305
+weighted avg       0.94      0.94      0.94      6305

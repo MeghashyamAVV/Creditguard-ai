@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "income_to_loan_ratio",
+    "mean_abs_shap": 1.344295620918274
+  },
+  {
+    "feature": "person_income",
+    "mean_abs_shap": 0.9615871906280518
+  },
+  {
+    "feature": "loan_percent_income",
+    "mean_abs_shap": 0.8069930672645569
+  },
+  {
+    "feature": "loan_int_rate",
+    "mean_abs_shap": 0.5693183541297913
+  },
+  {
+    "feature": "person_home_ownership_OWN",
+    "mean_abs_shap": 0.4923270642757416
+  },
+  {
+    "feature": "loan_intent_VENTURE",
+    "mean_abs_shap": 0.36139246821403503
+  },
+  {
+    "feature": "person_home_ownership_RENT",
+    "mean_abs_shap": 0.358803391456604
+  },
+  {
+    "feature": "loan_grade_D",
+    "mean_abs_shap": 0.2927134335041046
+  },
+  {
+    "feature": "loan_grade_A",
+    "mean_abs_shap": 0.26349931955337524
+  },
+  {
+    "feature": "loan_intent_HOMEIMPROVEMENT",
+    "mean_abs_shap": 0.20073941349983215
+  },
+  {
+    "feature": "person_emp_length",
+    "mean_abs_shap": 0.17981776595115662
+  },
+  {
+    "feature": "loan_grade_B",
+    "mean_abs_shap": 0.17465117573738098
+  },
+  {
+    "feature": "loan_intent_DEBTCONSOLIDATION",
+    "mean_abs_shap": 0.16986118257045746
+  },
+  {
+    "feature": "loan_amnt",
+    "mean_abs_shap": 0.15163546800613403
+  },
+  {
+    "feature": "person_home_ownership_MORTGAGE",
+    "mean_abs_shap": 0.13274835050106049
+  }
+]
